@@ -4,13 +4,9 @@ Aplicação web - NLW/TOGETHER - Mission Originn
 Extensões:
 
 - Bracket Pair Colorizer
-- 
 - Live Server
-- 
 - Material Icon Theme
-- 
 - Omni Theme
-- 
 - Prettier
 
 CTRL+SHIFT+P : open seting (json) - configurações colar:
@@ -47,6 +43,6 @@ CTRL+SHIFT+P : open seting (json) - configurações colar:
     "liveServer.settings.donotVerifyTags": true,
 }
 
-TECNOLOGIAS
+Tecnologias 
 
 HTML e CSS
