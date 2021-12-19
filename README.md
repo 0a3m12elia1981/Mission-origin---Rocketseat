@@ -13,15 +13,21 @@ CTRL+SHIFT+P : open seting (json) - configurações colar:
 
 {
     "editor.fontSize": 16,
+    
     "terminal.integrated.fontSize": 16,
+    
     "workbench.colorTheme": "Omni",
+    
     "workbench.iconTheme": "material-icon-theme",
-    // no vídeo você viu uma config de fonte aqui, 
-		// mas ela não é compatível com todos os sistemas, por isso, tirei ok?
-    "editor.minimap.enabled": false,
+    
+   "editor.minimap.enabled": false,
+   
     "editor.wordWrap": "on",
+    
     "workbench.editor.tabSizing": "shrink",
+    
     "explorer.compactFolders": false,
+    
     "window.zoomLevel": 1,
 
     // formatter
